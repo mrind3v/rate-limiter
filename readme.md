@@ -1,1 +1,1 @@
-![UML diagram](static/rate-limiter-uml-v1.png)
+![UML diagram](static/rate-limiter-uml-v2.png)
